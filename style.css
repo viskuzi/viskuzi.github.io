@@ -4,14 +4,14 @@ body {
   font-size: medium;
   text-decoration: wavy;
 }
-body.h1 {
+h1 {
   text-align: center;
   font-size: 44px;
   margin-top: auto;
   margin-bottom: 25px;
 
 }
-body.h2 {
+h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: chocolate;
 }
